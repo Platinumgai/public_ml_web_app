@@ -1,0 +1,1 @@
+streamlit run "C:/Users/nagen/OneDrive/Desktop/Multiple Disease prediction system/multiple disease pred.py"
